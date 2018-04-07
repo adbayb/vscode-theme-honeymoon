@@ -1,0 +1,103 @@
+{
+  "name": "Honeymoon",
+  "type": "dark",
+  "colors": {
+    "activityBar.background": "#1d202b",
+    "activityBar.foreground": "#cccccc",
+    "activityBarBadge.background": "#ffce6b",
+    "activityBarBadge.foreground": "#1d202b",
+    "badge.background": "#ffce6b",
+    "badge.foreground": "#1d202b",
+    "editor.background": "#232935",
+    "editor.foreground": "#cccccc",
+    "editorGroupHeader.tabsBackground": "#1d202b",
+    "editorWidget.background": "#1d202b",
+    "foreground": "#cccccc",
+    "input.background": "#232935",
+    "list.activeSelectionBackground": "#232935",
+    "list.activeSelectionForeground": "#ffce6b",
+    "list.focusBackground": "#232935",
+    "list.focusForeground": "#ffce6b",
+    "list.highlightForeground": "#ffce6b",
+    "list.hoverBackground": "#232935",
+    "list.hoverForeground": "#ffce6b",
+    "list.inactiveSelectionBackground": "#232935",
+    "list.inactiveSelectionForeground": "#ffce6b",
+    "panel.background": "#1d202b",
+    "pickerGroup.foreground": "#ffce6b",
+    "sideBar.background": "#1d202b",
+    "sideBar.border": "#000000",
+    "sideBarSectionHeader.foreground": "#ffce6b",
+    "sideBarTitle.foreground": "#ffce6b",
+    "statusBar.background": "#1d202b",
+    "statusBar.foreground": "#cccccc86",
+    "tab.activeForeground": "#ffce6b",
+    "tab.border": "#000000",
+    "tab.inactiveBackground": "#1d202b",
+    "tab.inactiveForeground": "#cccccc86",
+    "titleBar.activeBackground": "#1d202b",
+    "titleBar.activeForeground": "#ffce6b",
+    "titleBar.inactiveBackground": "#1d202b",
+    "titleBar.inactiveForeground": "#cccccc86"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "entity.other.attribute-name.class",
+        "keyword",
+        "storage",
+        "variable.language.this"
+      ],
+      "settings": {
+        "foreground": "#faea92"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function",
+        "source.json punctuation",
+        "source.json support.type.property-name",
+        "entity.name.tag support",
+        "entity.name.tag",
+        "punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "#efb056"
+      }
+    },
+    {
+      "scope": [
+        "meta.object-literal.key entity.name.function",
+        "meta.object-literal.key",
+        "support.type.property-name",
+        "support.variable.property",
+        "variable.other.property"
+      ],
+      "settings": {
+        "foreground": "#eaeaea"
+      }
+    },
+    {
+      "scope": [
+        "constant",
+        "punctuation.definition.string",
+        "punctuation.definition.template-expression",
+        "string",
+        "support.constant"
+      ],
+      "settings": {
+        "foreground": "#a5d6a7"
+      }
+    },
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "foreground": "#5c6773"
+      }
+    }
+  ]
+}
