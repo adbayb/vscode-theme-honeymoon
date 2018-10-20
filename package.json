@@ -3,25 +3,38 @@
   "displayName": "Honeymoon Theme",
   "description": "A minimalist honeyed dark Visual Studio Code theme",
   "version": "0.0.1",
-  "publisher": "adbayb",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adbayb/vscode-theme-honeymoon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adbayb/vscode-theme-honeymoon/issues",
+    "email": "adbayb@gmail.com"
   },
   "keywords": [
     "dark",
     "yellow",
     "orange",
     "black",
-    "minimalist",
-    "clean",
-    "theme"
+    "minimalist"
   ],
-  "author": "Ayoub Adib <adbayb@gmail.com>",
+  "author": {
+    "name": "Ayoub Adib <adbayb@gmail.com>"
+  },
+  "homepage": "https://github.com/adbayb/vscode-theme-honeymoon/blob/master/README.md",
+  "license": "SEE LICENSE IN LICENSE",
+  "publisher": "adbayb",
+  "icon": "icons/256.png",
+  "galleryBanner": {
+    "color": "#232935",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.22.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
