@@ -5,21 +5,7 @@
 
 ## Screenshots
 
-**JavaScript**
-
-![editor-js](https://user-images.githubusercontent.com/10498826/47259818-b53f7400-d4af-11e8-8eef-22d213562790.png)
-
-**JSON**
-
-![editor](https://user-images.githubusercontent.com/10498826/47259819-b53f7400-d4af-11e8-8e90-ca6f65d831ac.png)
-
-**HTML**
-
-![editor-html](https://user-images.githubusercontent.com/10498826/47259817-b53f7400-d4af-11e8-8446-218816c3dde9.png)
-
-**CSS**
-
-![editor-css](https://user-images.githubusercontent.com/10498826/47259816-b53f7400-d4af-11e8-8831-7fce56ba7f19.png)
+![screenshot](https://user-images.githubusercontent.com/10498826/47871461-6e853e80-de0c-11e8-89b8-4938d21f7332.png)
 
 ## My custom configuration
 

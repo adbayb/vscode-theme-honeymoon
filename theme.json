@@ -39,15 +39,17 @@
     "sideBarSectionHeader.foreground": "#ffce6b",
     "sideBarTitle.foreground": "#ffce6b",
     "statusBar.background": "#1d202b",
-    "statusBar.foreground": "#cccccc80",
+    "statusBar.debuggingBackground": "#ffce6b",
+    "statusBar.debuggingForeground": "#232935",
+    "statusBar.foreground": "#ccccccef",
     "tab.activeForeground": "#ffce6b",
     "tab.border": "#000000",
     "tab.inactiveBackground": "#1d202b",
-    "tab.inactiveForeground": "#cccccc80",
+    "tab.inactiveForeground": "#ccccccef",
     "titleBar.activeBackground": "#1d202b",
-    "titleBar.activeForeground": "#cccccc80",
+    "titleBar.activeForeground": "#ccccccef",
     "titleBar.inactiveBackground": "#1d202b",
-    "titleBar.inactiveForeground": "#cccccc60"
+    "titleBar.inactiveForeground": "#ccccccaa"
   },
   "tokenColors": [
     {
