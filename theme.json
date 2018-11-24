@@ -105,6 +105,12 @@
       }
     },
     {
+      "scope": ["meta.template.expression variable"],
+      "settings": {
+        "foreground": "#cccccc"
+      }
+    },
+    {
       "scope": [
         "constant",
         "punctuation.definition.string",
