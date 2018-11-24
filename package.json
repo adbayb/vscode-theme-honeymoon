@@ -2,7 +2,7 @@
   "name": "vscode-theme-honeymoon",
   "displayName": "Honeymoon Theme",
   "description": "A minimalist honeyed dark Visual Studio Code theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/adbayb/vscode-theme-honeymoon.git"
